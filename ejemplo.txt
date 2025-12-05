@@ -1,5 +1,8 @@
 feature-b
+feature-b
 Cambios desde la rama B
 
 Cambios desde la rama A
 main
+TEXTO TRAMPA PARA CAUSAR CONFLICTO EN LA PRÁCTICA
+ main
